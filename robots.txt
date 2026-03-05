@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bnslsiya.github.io/MoviesForAll/sitemap.xml

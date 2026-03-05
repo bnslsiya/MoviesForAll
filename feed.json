@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Movies For All",
+    "description": "",
+    "home_page_url": "https://bnslsiya.github.io/MoviesForAll",
+    "feed_url": "https://bnslsiya.github.io/MoviesForAll/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Siya"
+    },
+    "items": [
+    ]
+}
